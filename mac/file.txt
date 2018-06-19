@@ -1,0 +1,1 @@
+To extract them, you should first collect the files together and run zip -F new.zip --out existing.zip or zip -s0 new.zip --out existing.zip, to recreate your existing.zip. Then you can simply unzip existing.zip.
